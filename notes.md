@@ -61,12 +61,11 @@ TDD: Test Driven Development
 
 RSpec
  - ruby library used for testing (by far the most popular)
- - live code: https://github.com/rafd/lighthouse-w2d2
+ - Another alternative is the default one that Ruby now comes with and is more mature and useful which is MiniTest
 
 
-DEMO TIME
 
-
+DEMO TIME: RSPEC UNIT TESTING + TDD 
 
 
 
