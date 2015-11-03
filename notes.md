@@ -84,11 +84,10 @@ BDD: Behaviour Driven Development
  - in ruby land, BDD tests are often written with the help of cucumber: https://cucumber.io/
 
 
-Writing Better Tests:
+Writing Better Tests (we didn't get to cover this today) - so in a breakout:
  - stubs and mocks
     - fake objects and methods
     - useful when you haven't implemented a class that your current class interacts with
     - also helps your tests to become more independent (ideally, test file testing Class A would *only* require Class A )
-    - see ./soldier.rb
  - rspec also has 'subject', 'let', contexts
 
